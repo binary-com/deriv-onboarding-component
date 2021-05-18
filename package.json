@@ -1,5 +1,5 @@
 {
-  "name": "@deriv/reactour",
+  "name": "@deriv/deriv-onboarding",
   "version": "1.0.0",
   "description": "Tourist Guide into your React Components",
   "main": "dist/reactour.cjs.js",
