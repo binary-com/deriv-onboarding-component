@@ -77,8 +77,7 @@
   "peerDependencies": {
     "react": "^16.3.0 || ^17.0.0-0",
     "react-dom": "^16.3.0 || ^17.0.0-0",
-    "react-is": "^16.8 || ^17.0.0-0",
-    "styled-components": "^4.0.0 || ^5.0.0"
+    "react-is": "^16.8 || ^17.0.0-0"
   },
   "dependencies": {
     "@rooks/use-mutation-observer": "4.11.2",
@@ -89,6 +88,8 @@
     "prop-types": "15.7.2",
     "react-focus-lock": "2.5.2",
     "scroll-smooth": "1.1.0",
-    "scrollparent": "2.0.1"
+    "scrollparent": "2.0.1",
+    "styled-components": "^5.0.0"
+
   }
 }

@@ -1,4 +1,4 @@
-import React, { Component, createRef } from 'react'
+import React, { Component, createRef, memo } from 'react'
 import cn from 'classnames'
 import scrollSmooth from 'scroll-smooth'
 import Scrollparent from 'scrollparent'
@@ -622,4 +622,4 @@ Tour.propTypes = propTypes
 
 Tour.defaultProps = defaultProps
 
-export default Tour
+export default memo(Tour)
